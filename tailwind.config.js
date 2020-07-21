@@ -52,7 +52,8 @@ module.exports = {
           color: config('theme.colors.gray.600')
         },
         'ul, ol': {
-          'padding-left': config('theme.spacing.["5"]')
+          'padding-left': config('theme.spacing.["5"]'),
+          'margin-bottom': config('theme.spacing.["4"]')
         },
         ul: {
           'list-style': config('theme.listStyleType.disc')

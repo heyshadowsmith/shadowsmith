@@ -38,6 +38,7 @@ p code, li code {
   @apply bg-chalkboard;
   @apply rounded;
   @apply text-white;
-  padding: 2px 4px;
+  padding: 1px 3px;
+  font-size: 13px;
 }
 </style>
