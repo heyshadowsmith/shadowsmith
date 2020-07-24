@@ -1,5 +1,6 @@
 ---
 title: Deploy a static site with a working form using Netlify
+description: Learn how to host websites that have fully functioning forms for free
 ---
 In this article, I'm going to show you how to build a simple website with a form and bring it all to life using Netlify.
 

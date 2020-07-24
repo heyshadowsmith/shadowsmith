@@ -1,5 +1,6 @@
 ---
 title: What is Apollo Link and its purpose in the GraphQL ecosystem?
+description: Learn about Apollo Link and why it was created
 ---
 
 To kick this explanation off, the [Apollo Link Documentation](https://www.apollographql.com/docs/link/) describes Apollo Link as...

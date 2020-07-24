@@ -1,5 +1,6 @@
 ---
 title: How to find your AWS Cognito IdentityPoolId
+description: Quickly located an AWS Cognito IdentityPoolId in minutes
 ---
 
 In this post, I am outlining the specific steps needed to locate an AWS Cognito IdentityPoolId in hopes this helps someone who is looking for this answer.

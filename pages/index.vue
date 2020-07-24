@@ -24,6 +24,11 @@ export default {
 
       return new Date(date).toLocaleDateString('en', options)
     }
+  },
+  head () {
+    return {
+      title: 'Articles | Shadow Smith'
+    }
   }
 }
 </script>

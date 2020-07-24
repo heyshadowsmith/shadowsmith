@@ -1,5 +1,6 @@
 ---
 title: What is a callback function in JavaScript?
+description: Understand this simple fundamental that trips most JavaScript beginners
 ---
 
 A callback is a function that waits for another function to finish executing before executing itself. It gives us the ability to enforce an order of operations to our JavaScript code.
