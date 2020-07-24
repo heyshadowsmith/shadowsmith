@@ -37,6 +37,18 @@ export default {
 
       return new Date(date).toLocaleDateString('en', options)
     }
+  },
+  head () {
+    return {
+      title: `${this.article.title} | Shadow Smith`,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: this.article.description
+        }
+      ]
+    }
   }
 }
 </script>

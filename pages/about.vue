@@ -20,6 +20,11 @@
 
 <script>
 export default {
-  name: 'About'
+  name: 'About',
+  head () {
+    return {
+      title: 'About | Shadow Smith'
+    }
+  }
 }
 </script>
