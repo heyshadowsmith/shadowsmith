@@ -1,5 +1,6 @@
 ---
 title: Bulk deleting local Git branches using Regex
+description: Clean up your local dev environment with these handy commands
 ---
 
 If you are reading this, you obviously have a need to bulk delete local Git branches because you are crushing all of your assigned Work Items.

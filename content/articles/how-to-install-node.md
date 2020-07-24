@@ -1,5 +1,6 @@
 ---
 title: How to install Node.js
+description: This is the first step toward building full stack applications and APIs with JavaScript
 ---
 
 In this article, I walk you through installing Node, so you can begin building full web applications with JavaScript.
