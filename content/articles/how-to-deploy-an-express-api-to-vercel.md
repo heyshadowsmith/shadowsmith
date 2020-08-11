@@ -21,6 +21,8 @@ Just by doing this one thing, Vercel will begin to look for `vercel.json` or `no
 This CI pipeline will do an initial deployment and then create [Preview Deployments](https://vercel.com/docs/platform/deployments#preview) for every subsequent commit on every branch.
 
 ## 2. Create a simple Express API (unless you have your own)
+If you haven't yet, [install Node and NPM](/how-to-install-node).
+
 Create a repo, clone it to your local machine, and `cd` into it.
 
 Then use the following command to create your `package.json` file quickly with the default options.
