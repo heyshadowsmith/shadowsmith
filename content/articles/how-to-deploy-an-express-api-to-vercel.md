@@ -18,24 +18,24 @@ First thing's first, [sign up for Vercel using your GitHub, GitLab, or Bitbucket
 
 Just by doing this one thing, Vercel will begin to look for `vercel.json` or `now.json` files during any Git pushes to your projects, and if it finds one, it will link the project across services and spin up a CI pipeline for that repo.
 
-This CI pipeline will do an initial deployment and then create **Preview Deployments** for every subsequent commit on every branch.
+This CI pipeline will do an initial deployment and then create [Preview Deployments](https://vercel.com/docs/platform/deployments#preview) for every subsequent commit on every branch.
 
 ## 2. Create a simple Express API (unless you have your own)
 Create a repo, clone it to your local machine, and `cd` into it.
 
-Create your `package.json` file using the default options.
+Then use the following command to create your `package.json` file quickly with the default options.
 ```
 npm init -y
 ```
-Install [Express](https://expressjs.com/) using [NPM](https://www.npmjs.com/).
+After that, install [Express](https://expressjs.com/)...
 ```
 npm i express
 ```
-Create your `index.js` file.
+...create your `index.js` file, and proceed getting the boilerplate out of the way.
 ```
 touch index.js
 ```
-Go ahead and add Express, initialize it, create a simple GET request that responds to requests with "Express on Vercel", and set your server up on port 5000.
+Now go ahead and add Express, initialize it, create a simple GET request that responds to requests with "Express on Vercel", and set your server up on port 5000.
 ```js
 // Add Express
 const express = require('express')
@@ -55,7 +55,7 @@ app.listen(5000, () => {
 ```
 *Technically, you don't have to initialize the server for this to work but chances are any Express API you have will have a server initialization, and this also gives you the ability to easily run `node index` while working with your Express API locally.*
 ## 3. Export the Express API
-In order for Vercel to turn Express into a serverless function, you have to export the Express instance for Vercel's build process.
+So in order for Vercel to turn Express into a serverless function, you have to export the Express instance for Vercel's build process.
 ```js
 const express = require('express')
 
@@ -94,7 +94,7 @@ Using Vercel Platform version 2, specify your `index.js` file and the NPM module
     ]
 }
 ```
-Using a regular expression, specify which paths will route to the `index.js` file's built serverless function.
+Then specify which paths will route to the `index.js` file's built serverless function using regex.
 ```json
 {
     "version": 2,
@@ -115,7 +115,7 @@ Using a regular expression, specify which paths will route to the `index.js` fil
 }
 ```
 ## 5. Deploy your Express API
-Simply push your project up, and Vercel will use your `vercel.json` configuration file to build your Express API and deploy it as a serverless function.
+Now simply push your project up to your source repository, and Vercel will use your `vercel.json` configuration file to build your Express API and deploy it as a serverless function.
 
 Once the build process is complete, feel free to visit the `.vercel.app` URL Vercel provides automatically.
 
