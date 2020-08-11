@@ -80,7 +80,7 @@ So create a `vercel.json` file.
 ```
 touch vercel.json
 ```
-Using Vercel Platform version 2, specify your `index.js` file and the NPM module Vercel will use to turn it into a serverless function.
+Then using Vercel Platform version 2, specify your `index.js` file and the NPM module Vercel will use to turn it into a serverless function...
 ```json
 {
     "version": 2,
@@ -94,7 +94,7 @@ Using Vercel Platform version 2, specify your `index.js` file and the NPM module
     ]
 }
 ```
-Then specify which paths will route to the `index.js` file's built serverless function using regex.
+...specify which paths will route to the `index.js` file's built serverless function using regex.
 ```json
 {
     "version": 2,
@@ -115,7 +115,7 @@ Then specify which paths will route to the `index.js` file's built serverless fu
 }
 ```
 ## 5. Deploy your Express API
-Now simply push your project up to your source repository, and Vercel will use your `vercel.json` configuration file to build your Express API and deploy it as a serverless function.
+Finally, push your project up to your source repository, and Vercel will use your `vercel.json` configuration file to build your Express API and deploy it as a serverless function.
 
 Once the build process is complete, feel free to visit the `.vercel.app` URL Vercel provides automatically.
 
