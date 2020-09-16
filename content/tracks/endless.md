@@ -1,0 +1,8 @@
+---
+title: Endless
+genre: Instrumental
+createdAt: 2018-11-06
+---
+<audio controls class="mb-6 w-full">
+  <source src="/songs/Endless.mp3" type="audio/mpeg">
+</audio>
