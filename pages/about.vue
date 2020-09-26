@@ -13,7 +13,7 @@
       I have had hundreds of discovery calls with C-suite executives and integrated APIs into some of the nation's largest media companies' internal systems.
     </p>
     <p>
-      Now, I'm at <a target="_blank" href="https://openly.com">Openly</a> as a Senior Software Engineer to help push the insurance industry forward using Vercel, Nuxt, Tailwind, and Serverless Functions.
+      Now, I'm at <a target="_blank" href="https://openly.com">Openly</a> as a Senior Software Engineer to help push the insurance industry forward using <a target="_blank" href="https://vercel.com/">Vercel</a>, <a target="_blank" href="https://nuxtjs.org/">Nuxt</a>, <a target="_blank" href="https://tailwindcss.com">Tailwind</a>, and Serverless Functions.
     </p>
     <p>
       Also, I make
