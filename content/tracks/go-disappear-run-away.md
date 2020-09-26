@@ -3,7 +3,7 @@ title: Go, Disappear, Run Away
 genre: Alternative
 createdAt: 2014-05-16
 ---
-<audio controls class="mb-6 w-full">
+<audio controls class="mb-6">
   <source src="/songs/Go, Disappear, Run Away.mp3" type="audio/mpeg">
 </audio>
 (Go with me, Run with me, Go with me, Disappear)<br>

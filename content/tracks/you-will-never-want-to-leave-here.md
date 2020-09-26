@@ -3,7 +3,7 @@ title: You Will Never Want to Leave Here
 genre: Alternative
 createdAt: 2012-04-09
 ---
-<audio controls class="mb-6 w-full">
+<audio controls class="mb-6">
   <source src="/songs/You Will Never Want to Leave Here.mp3" type="audio/mpeg">
 </audio>
 I Believe you can't see what I see<br>

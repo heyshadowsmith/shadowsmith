@@ -3,7 +3,7 @@ title: Time, Moments, and Memories
 genre: Spoken Word
 createdAt: 2013-01-15
 ---
-<audio controls class="mb-6 w-full">
+<audio controls class="mb-6">
   <source src="/songs/Time, Moments, and Memories.mp3" type="audio/mpeg">
 </audio>
 Time means nothing without moments<br>

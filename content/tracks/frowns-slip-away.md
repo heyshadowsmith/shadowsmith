@@ -3,7 +3,7 @@ title: Frowns Slip Away
 genre: Alternative
 createdAt: 2013-05-12
 ---
-<audio controls class="mb-6 w-full">
+<audio controls class="mb-6">
   <source src="/songs/Frowns Slip Away.mp3" type="audio/mpeg">
 </audio>
 Have you ever been lost in thought about how your life is<br>

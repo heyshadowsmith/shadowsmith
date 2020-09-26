@@ -3,7 +3,7 @@ title: Where is Your Head?
 genre: Spoken Word
 createdAt: 2013-07-20
 ---
-<audio controls class="mb-6 w-full">
+<audio controls class="mb-6">
   <source src="/songs/Where is Your Head.mp3" type="audio/mpeg">
 </audio>
 I have too much respect for my heart<br>

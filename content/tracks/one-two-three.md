@@ -3,7 +3,7 @@ title: One, Two, Three
 genre: Pop
 createdAt: 2013-09-30
 ---
-<audio controls class="mb-6 w-full">
+<audio controls class="mb-6">
   <source src="/songs/One, Two, Three.mp3" type="audio/mpeg">
 </audio>
 I'm gonna count to one two three<br>

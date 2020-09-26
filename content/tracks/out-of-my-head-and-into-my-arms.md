@@ -3,7 +3,7 @@ title: Out of My Head and into My Arms
 genre: Alternative
 createdAt: 2013-06-08
 ---
-<audio controls class="mb-6 w-full">
+<audio controls class="mb-6">
   <source src="/songs/Out of My Head and into My Arms.mp3" type="audio/mpeg">
 </audio>
 I swear to you, girl when I find you I'll give you the world<br>
