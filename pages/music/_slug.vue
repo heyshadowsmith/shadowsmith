@@ -1,10 +1,10 @@
 <template>
   <article>
-    <div class="mb-6">
+    <div class="mb-6 text-center sm:text-left">
       <h1 class="mb-0">
         {{ track.title }}
       </h1>
-      <p class="font-mono text-gray-500 text-sm flex">
+      <p class="font-mono text-gray-500 text-sm inline-flex">
         <a href="https://twitter.com/heyshadowsmith" class="inline-flex items-center mr-2">
           <svg
             class="mr-1"
