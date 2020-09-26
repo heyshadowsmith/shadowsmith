@@ -1,6 +1,6 @@
 <template>
   <article>
-    <div class="mb-6 text-center sm:text-left">
+    <div class="mb-1 text-center sm:text-left">
       <h1 class="mb-0">
         {{ track.title }}
       </h1>
