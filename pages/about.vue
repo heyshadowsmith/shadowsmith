@@ -13,7 +13,13 @@
       I have had hundreds of discovery calls with C-suite executives and integrated APIs into some of the nation's largest media companies' internal systems.
     </p>
     <p>
-      Now I'm at <a target="_blank" href="https://openly.com">Openly</a> as a Senior Vue Engineer to enhance and maintain their AI driven insurance platform.
+      Now, I'm at <a target="_blank" href="https://openly.com">Openly</a> as a Senior Software Engineer to help push the insurance industry forward using Vercel, Nuxt, Tailwind, and Serverless Functions.
+    </p>
+    <p>
+      Also, I make
+      <nuxt-link to="/music">
+        music
+      </nuxt-link> for fun. Feel free to tune in.
     </p>
   </div>
 </template>
