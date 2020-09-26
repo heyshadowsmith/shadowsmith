@@ -1,6 +1,6 @@
 <template>
-  <div class="flex justify-between items-center py-6">
-    <nuxt-link to="/">
+  <div class="flex flex-col justify-between items-center sm:flex-row py-6">
+    <nuxt-link to="/" class="mb-6 sm:mb-0">
       <Logo />
     </nuxt-link>
     <div>
