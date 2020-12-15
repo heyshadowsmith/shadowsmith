@@ -24,7 +24,7 @@ module.exports = {
         body: {
           color: config('theme.colors.gray.900')
         },
-        'h1, h2': {
+        'h1, h2, h3, h4': {
           'font-weight': config('theme.fontWeight.semibold')
         },
         h1: {
@@ -36,6 +36,11 @@ module.exports = {
           'margin-top': config('theme.spacing.["2"]'),
           'margin-bottom': config('theme.spacing.["4"]'),
           'font-size': config('theme.fontSize.["2xl"]')
+        },
+        'h3, h4': {
+          'margin-top': config('theme.spacing.["2"]'),
+          'margin-bottom': config('theme.spacing.["4"]'),
+          'font-size': config('theme.fontSize.["xl"]')
         },
         '.nuxt-content a': {
           color: config('theme.colors.lime'),
