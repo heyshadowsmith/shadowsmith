@@ -1,6 +1,7 @@
 ---
 title: How to make an API from scraped data using Express & Puppeteer
 description: Turn any website into an API using this technique
+createdAt: 2020-01-13
 ---
 
 In this article, I'm going to show you how to make an extremely simple API using Express & Puppeteer that gives a user the ability to fetch a JSON object that includes every Digimon's name from [this website](http://digidb.io/digimon-list/).

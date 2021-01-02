@@ -1,6 +1,7 @@
 ---
 title: How to test all Vercel deployments using Cypress in a GitLab pipeline
 description: Learn how to host to set up a GitLab pipeline that can test every Vercel deployment using Cypress
+createdAt: 2020-12-20
 ---
 
 In this tutorial, I'm going to be walking you step-by-step through how to set up a simple GitLab pipeline that allows you to run automated tests against every Vercel deployment.

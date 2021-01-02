@@ -1,6 +1,7 @@
 ---
 title: Deploy a static site with a working form using Netlify
 description: Learn how to host websites that have fully functioning forms for free
+createdAt: 2020-07-31
 ---
 In this article, I'm going to show you how to build a simple website with a form and bring it all to life using Netlify.
 
@@ -199,9 +200,3 @@ Instead of paying a monthly cost to have a hosting provider host your static web
 Just keep in mind that Netlify's free tier covers 100 contact form submissions per month, but this generally covers the needs of simple  portfolio, small business, and startup websites.
 
 Now with this information, you have no excuse not to finally redo your Dad's simple construction company site.
-
-
-
-
-
-

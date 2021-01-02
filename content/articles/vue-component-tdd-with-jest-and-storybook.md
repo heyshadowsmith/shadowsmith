@@ -1,6 +1,7 @@
 ---
 title: Vue component TDD with Jest & Storybook
 description: Dip your toes into the basics of building Vue components using test driven development
+createdAt: 2020-01-14
 ---
 
 In this article, I'm going to show you how to build a custom Vue button component in isolation using Test Driven Development (TDD).

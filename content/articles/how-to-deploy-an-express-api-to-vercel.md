@@ -1,6 +1,7 @@
 ---
 title: How to deploy an Express API to Vercel
 description: A simple guide showing you how to deploy an Express API as serverless functions on Vercel
+createdAt: 2020-08-12
 ---
 Have a project that uses a slow but free Heroku dyno to host some Node server that runs an Express API?
 
