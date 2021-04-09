@@ -18,6 +18,10 @@ export default {
           path: '/'
         },
         {
+          title: 'Talks',
+          path: '/talks'
+        },
+        {
           title: 'Music',
           path: '/music'
         },
@@ -26,6 +30,11 @@ export default {
           path: '/about'
         }
       ]
+    }
+  },
+  head () {
+    return {
+      title: 'Menu | Shadow Smith'
     }
   }
 }
