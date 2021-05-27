@@ -18,6 +18,10 @@ export default {
           path: '/'
         },
         {
+          title: 'Wins',
+          path: '/wins'
+        },
+        {
           title: 'Talks',
           path: '/talks'
         },
