@@ -10,9 +10,13 @@ A tricky issue I had to solve was how to test all Vercel deployments using [Cypr
 
 I ultimately solved this problem using a custom Node CI script called `get-deployment-url.js` that would poll Vercel for the deployment's status before writing it's URL to a `vercel_deployment_url.txt` file for downstream job consumption.
 
-It did the job, but it didn't scale.
+This did the job, but it didn't scale.
 
-Once I had to maintain 3 projects with the same Node CI script and the script needed a tweak, I knew I needed to take some time and turn my custom script into an NPM package.
+Fast forward a few months and this Node CI script is now in 3 projects, and for some reason or other, I needed to tweak the script.
+
+In order for the Node CI script to stay consistent across all projects, I had to copy and paste my updates everywhere. 
+
+This is when I knew I needed to take some time and turn my custom script into an NPM package.
 
 And today, [@openlyinc/get-vercel-deployment-url](https://www.npmjs.com/package/@openlyinc/get-vercel-deployment-url) was born.
 
