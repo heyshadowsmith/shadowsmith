@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2013-05-21
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Creative Enough.mp3" type="audio/mpeg">
+  <source src="/songs/creative-enough.mp3" type="audio/mpeg">
 </audio>
 I love to go down to the water and sit on the dock<br>
 And hear the blue birds sing to each other<br>

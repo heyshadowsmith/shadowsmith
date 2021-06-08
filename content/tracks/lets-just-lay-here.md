@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2012-05-28
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Lets Just Lay Here.mp3" type="audio/mpeg">
+  <source src="/songs/lets-just-lay-here.mp3" type="audio/mpeg">
 </audio>
 So It's been awhile now (It's been awhile now)<br>
 Since you came around to let me<br>

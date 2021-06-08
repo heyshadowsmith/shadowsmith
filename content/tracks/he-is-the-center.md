@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2020-06-21
 ---
 <audio controls class="mb-6">
-  <source src="/songs/He is the Center.mp3" type="audio/mpeg">
+  <source src="/songs/he-is-the-center.mp3" type="audio/mpeg">
 </audio>
 He is the center of everything I know,<br>
 and without him, I wouldn’t be who I am<br>

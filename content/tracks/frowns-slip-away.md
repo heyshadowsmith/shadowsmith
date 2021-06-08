@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2013-05-12
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Frowns Slip Away.mp3" type="audio/mpeg">
+  <source src="/songs/frowns-slip-away.mp3" type="audio/mpeg">
 </audio>
 Have you ever been lost in thought about how your life is<br>
 Have you ever been down on your luck or ran out of fucks to give<br>

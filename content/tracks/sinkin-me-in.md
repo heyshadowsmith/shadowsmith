@@ -4,7 +4,7 @@ genre: Acoustic
 createdAt: 2013-11-23
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Sinkin' Me In.mp3" type="audio/mpeg">
+  <source src="/songs/sinkin-me-in.mp3" type="audio/mpeg">
 </audio>
 Today started just like every other day<br>
 Laced my red shoes I was on my way<br>

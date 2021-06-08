@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2014-04-21
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Go, Disappear, Run Away.mp3" type="audio/mpeg">
+  <source src="/songs/go-disappear-run-away.mp3" type="audio/mpeg">
 </audio>
 (Go with me, Run with me, Go with me, Disappear)<br>
 <br>

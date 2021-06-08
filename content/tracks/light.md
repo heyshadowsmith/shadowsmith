@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2019-03-12
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Light.mp3" type="audio/mpeg">
+  <source src="/songs/light.mp3" type="audio/mpeg">
 </audio>
 May these words be the first<br>
 To find your ears<br>

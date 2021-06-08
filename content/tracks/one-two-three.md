@@ -4,7 +4,7 @@ genre: Pop
 createdAt: 2013-09-30
 ---
 <audio controls class="mb-6">
-  <source src="/songs/One, Two, Three.mp3" type="audio/mpeg">
+  <source src="/songs/one-two-three.mp3" type="audio/mpeg">
 </audio>
 I'm gonna count to one two three<br>
 Yeah, reach for the ceiling<br>

@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2016-04-18
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Remember When.mp3" type="audio/mpeg">
+  <source src="/songs/remember-when.mp3" type="audio/mpeg">
 </audio>
 Remember when we went to the ocean<br>
 And found the perfect shell to take?<br>

@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2012-04-09
 ---
 <audio controls class="mb-6">
-  <source src="/songs/You Will Never Want to Leave Here.mp3" type="audio/mpeg">
+  <source src="/songs/you-will-never-want-to-leave-here.mp3" type="audio/mpeg">
 </audio>
 I Believe you can't see what I see<br>
 You can try, but you will never find the picture in front of me<br>

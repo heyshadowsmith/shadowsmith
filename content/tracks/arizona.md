@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2012-02-10
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Arizona.mp3" type="audio/mpeg">
+  <source src="/songs/arizona.mp3" type="audio/mpeg">
 </audio>
 I am unaware of your face, or when you will appear<br>
 but I'm doing everything I can to forget you're not here<br>

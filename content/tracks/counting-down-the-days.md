@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2012-03-15
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Counting Down the Days.mp3" type="audio/mpeg">
+  <source src="/songs/counting-down-the-days.mp3" type="audio/mpeg">
 </audio>
 It's an amazing place where I am<br>
 Away from your space,<br>

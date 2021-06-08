@@ -4,7 +4,7 @@ genre: Spoken Word
 createdAt: 2013-07-20
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Where is Your Head.mp3" type="audio/mpeg">
+  <source src="/songs/where-is-your-head.mp3" type="audio/mpeg">
 </audio>
 I have too much respect for my heart<br>
 To let yours crease up my seams and tear me apart<br>

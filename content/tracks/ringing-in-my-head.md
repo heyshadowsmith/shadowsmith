@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2018-12-03
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Ringing in My Head.mp3" type="audio/mpeg">
+  <source src="/songs/ringing-in-my-head.mp3" type="audio/mpeg">
 </audio>
 Is it peaceful in your mind tonight?<br>
 Can you tell me what it's like<br>

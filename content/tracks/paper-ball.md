@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2011-03-12
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Paper Ball.mp3" type="audio/mpeg">
+  <source src="/songs/paper-ball.mp3" type="audio/mpeg">
 </audio>
 Woke up and loved how I can be and feel as great as me<br>
 But am I truly free?<br>

@@ -4,7 +4,7 @@ genre: Spoken Word
 createdAt: 2013-08-12
 ---
 <audio controls class="mb-6">
-  <source src="/songs/My Own God.mp3" type="audio/mpeg">
+  <source src="/songs/my-own-god.mp3" type="audio/mpeg">
 </audio>
 I live a cut and dry life<br>
 I love myself more than anyone or anything<br>

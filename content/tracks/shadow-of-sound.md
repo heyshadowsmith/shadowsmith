@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2019-09-15
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Shadow of Sound.mp3" type="audio/mpeg">
+  <source src="/songs/shadow-of-sound.mp3" type="audio/mpeg">
 </audio>
 I love you<br>
 And I haven’t held you yet<br>

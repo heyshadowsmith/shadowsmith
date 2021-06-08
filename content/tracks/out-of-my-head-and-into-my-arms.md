@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2013-06-08
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Out of My Head and into My Arms.mp3" type="audio/mpeg">
+  <source src="/songs/out-of-my-head-and-into-my-arms.mp3" type="audio/mpeg">
 </audio>
 I swear to you, girl when I find you I'll give you the world<br>
 I'll give you what I've saved for so long (so long)<br>

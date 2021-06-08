@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2014-06-23
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Downtown.mp3" type="audio/mpeg">
+  <source src="/songs/downtown.mp3" type="audio/mpeg">
 </audio>
 Lets go downtown tonight<br>
 We will have a good time<br>

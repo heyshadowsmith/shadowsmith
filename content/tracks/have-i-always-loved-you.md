@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2019-01-11
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Have I Always Loved You.mp3" type="audio/mpeg">
+  <source src="/songs/have-i-always-loved-you.mp3" type="audio/mpeg">
 </audio>
 Never mind their talking down the dreamers<br>
 Our world is standing still<br>

@@ -4,7 +4,7 @@ genre: Acoustic
 createdAt: 2014-01-24
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Born With.mp3" type="audio/mpeg">
+  <source src="/songs/born-with.mp3" type="audio/mpeg">
 </audio>
 It's easy to get jaded about the things we were made with<br>
 There's a million like us who are vulnerable and naked<br>

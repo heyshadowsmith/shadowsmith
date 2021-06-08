@@ -4,7 +4,7 @@ genre: Alternative
 createdAt: 2012-06-20
 ---
 <audio controls class="mb-6">
-  <source src="/songs/Cherish What is Given.mp3" type="audio/mpeg">
+  <source src="/songs/cherish-what-is-given.mp3" type="audio/mpeg">
 </audio>
 Is anyone really sure of what we're doing here?<br>
 Trees grow leaves, yet they fall to our feet with such ease.<br>
