@@ -19,7 +19,7 @@ You’re my shadow of sound<br>
 And you’re gonna  to make your family proud<br>
 Just by being, being who you are<br>
 You’re my shadow of sound<br>
-And you’re heart is fused to my soul<br>
+And your heart is fused to my soul<br>
 Tighter than you’ll ever know<br>
 Because you, you are, you are my Echo<br>
 <br>
@@ -35,7 +35,7 @@ You’re my shadow of sound<br>
 And you’re gonna  to make your family proud<br>
 Just by being, being who you are<br>
 You’re my shadow of sound<br>
-And you’re heart is fused to my soul<br>
+And your heart is fused to my soul<br>
 Tighter than you’ll ever know<br>
 Because you, you are, you are my Echo<br>
 <br>
@@ -52,6 +52,6 @@ You’re my shadow of sound<br>
 And you’re gonna  to make your family proud<br>
 Just by being, being who you are<br>
 You’re my shadow of sound<br>
-And you’re heart is fused to my soul<br>
+And your heart is fused to my soul<br>
 Tighter than you’ll ever know<br>
 Because you, you are, you are my Echo
