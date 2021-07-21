@@ -1,6 +1,6 @@
 ---
 title: Published @openlyinc/get-vercel-deployment-url NPM package
-description: Clean up your local dev environment with these handy commands
+description: My first Open Source NPM package under Openly, Inc.
 createdAt: 2021-05-26
 ---
 
