@@ -15,7 +15,7 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Shadow Smith is a Vue developer and API designer that loves helping others creatively solve problems with visual design, code, and collaboration.' }
+      { hid: 'description', name: 'description', content: 'Shadow Smith is a Software Engineer that loves helping others creatively solve problems with visual design, code, and collaboration.' }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
