@@ -1,7 +1,7 @@
 <template>
   <div class="nuxt-content">
     <h1>
-      Hey, I'm Shadow Smith, a Vue developer & API designer
+      Hey, I'm Shadow Smith, a learning obsessed Software Engineer
     </h1>
     <p>
       During my career, I have discovered that opportunities for growth are limitless with the power of current web technologies, and as a result, I have developed an insatiable passion for creatively solving problems using visual design, code, and collaboration.
@@ -13,7 +13,7 @@
       I have had hundreds of discovery calls with C-suite executives and integrated APIs into some of the nation's largest media companies' internal systems.
     </p>
     <p>
-      Now, I'm at <a target="_blank" href="https://openly.com">Openly</a> as a Senior Software Engineer to help push the insurance industry forward using <a target="_blank" href="https://vercel.com/">Vercel</a>, <a target="_blank" href="https://nuxtjs.org/">Nuxt</a>, <a target="_blank" href="https://tailwindcss.com">Tailwind</a>, and Serverless Functions.
+      Now, I'm at <a target="_blank" href="https://openly.com">Openly</a> as a Senior Software Engineer to help push the insurance industry forward using <a target="_blank" href="https://vercel.com/">Vercel</a>, <a target="_blank" href="https://nuxtjs.org/">Nuxt</a>, <a target="_blank" href="https://tailwindcss.com">Tailwind</a>, and <a target="_blank" href="https://graphql.org/">GraphQL</a>.
     </p>
     <p>
       Also, I make
