@@ -1,10 +1,6 @@
 <template>
   <div>
-    <NuxtLink v-for="(link, index) in links" :key="index" :to="link.path" class="menu-link flex items-start py-2 sm:flex-row sm:items-end sm:py-3 border-t border-b border-transparent hover:border-gray-200">
-      <span class="font-medium text-gray-900">
-        {{ link.title }}
-      </span>
-    </NuxtLink>
+    <ResourceLink v-for="(item, index) in items" :key="index" :resource="item" />
   </div>
 </template>
 
@@ -12,26 +8,26 @@
 export default {
   data () {
     return {
-      links: [
+      items: [
         {
           title: 'Articles',
-          path: '/'
+          link: '/'
         },
         {
           title: 'Wins',
-          path: '/wins'
+          link: '/wins'
         },
         {
           title: 'Talks',
-          path: '/talks'
+          link: '/talks'
         },
         {
           title: 'Music',
-          path: '/music'
+          link: '/music'
         },
         {
           title: 'About',
-          path: '/about'
+          link: '/about'
         }
       ]
     }
@@ -43,9 +39,3 @@ export default {
   }
 }
 </script>
-
-<style>
-.menu-link {
-  transition: all 0.25s ease;
-}
-</style>

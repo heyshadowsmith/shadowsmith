@@ -1,29 +1,24 @@
 <template>
   <div>
-    <NuxtLink v-for="(article, index) in articles" :key="index" :to="`/${article.slug}`" class="article-link flex flex-col-reverse items-start py-2 sm:flex-row sm:items-end sm:py-3 border-t border-b border-transparent hover:border-gray-200">
-      <span class="font-mono text-gray-500 text-sm mr-6">{{ formatDate(article.createdAt) }} </span><span class="font-medium text-gray-900">
-        {{ article.title }}
-      </span>
-    </NuxtLink>
+    <ResourceLink v-for="(article, index) in articles" :key="index" :resource="article" />
   </div>
 </template>
 
 <script>
 export default {
   async asyncData ({ $content, params }) {
-    const articles = await $content('articles', params.slug)
+    let articles = await $content('articles', params.slug)
       .only(['title', 'slug', 'createdAt'])
       .sortBy('createdAt', 'desc')
       .fetch()
 
-    return { articles }
-  },
-  methods: {
-    formatDate (date) {
-      const options = { year: 'numeric' }
+    articles = articles.map(article => ({
+      title: article.title,
+      year: new Date(article.createdAt).toLocaleDateString('en', { year: 'numeric' }),
+      link: `/${article.slug}`
+    }))
 
-      return new Date(date).toLocaleDateString('en', options)
-    }
+    return { articles }
   },
   head () {
     return {
@@ -32,9 +27,3 @@ export default {
   }
 }
 </script>
-
-<style>
-.article-link {
-  transition: all 0.25s ease;
-}
-</style>
