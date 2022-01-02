@@ -5,3 +5,20 @@
 audio {
   width: 100%;
 }
+
+img {
+  @apply rounded-md;
+  @apply border;
+}
+
+.nuxt-content-highlight {
+  @apply mb-4;
+}
+
+p code, li code {
+  @apply bg-chalkboard;
+  @apply rounded;
+  @apply text-white;
+  padding: 1px 3px;
+  font-size: 13px;
+}

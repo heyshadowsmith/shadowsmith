@@ -5,10 +5,3 @@
     <Footer />
   </div>
 </template>
-
-<style>
-img {
-  @apply rounded-md;
-  @apply border;
-}
-</style>
